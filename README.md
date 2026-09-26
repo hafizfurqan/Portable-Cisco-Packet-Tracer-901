@@ -2,8 +2,8 @@
 
 This repository provides a portable version of **Cisco Packet Tracer 9.0.1** with custom updated device icons.
 
-### Visual Preview of App
-`CiscoPT.png`
+### 🖼️ Preview Layout
+![Cisco Packet Tracer Modernized UI Layout](CiscoPT.png)
 
 Please note that the software is **not patched** or modified. Instead, the login/auth screen has been bypassed by routing it through the application's built-in proxy settings. 
 
@@ -40,4 +40,4 @@ If you want to revert it back to guest mode, delete newly created Data Folder an
 
 ### Visual Reference
 For a step-by-step visual layout of these options, please refer to the image located at the root of this repository:
-👉 **`CPT-Revert.png`**
+👉 **<img src=CPT-Revert.png alt="Settings" >**
